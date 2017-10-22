@@ -22,7 +22,9 @@ The purpose of this repository is to capture good articles, resources, and links
 * Jupyter Notebook: http://jupyter.org
 
 ### Cyber Security
-* https://tutorials.cyberaces.org/tutorials
+* SANS Cyber Aces: https://tutorials.cyberaces.org/tutorials
+* Introduction to Practical Hacking and Penetration Testing: https://www.youtube.com/watch?v=4DC3BgB1vNc&t=2s
+* 415 Hack Yourself Building A Pentesting Lab David Boyd: https://www.youtube.com/watch?v=b8_sOoQtALs&t=6s
 
 ### Associations
 * Association for Computing Machinery (ACM): http://www.acm.org
@@ -44,6 +46,8 @@ The purpose of this repository is to capture good articles, resources, and links
 
 ## Mathematics
 * A View of Mathematics: http://www.alainconnes.org/docs/maths.pdf
+* Math for Computer Science course: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
+* Math for Computer Science book: https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 
 ## Unix, Linux, and System Administration
 * Linux from Scratch: http://www.linuxfromscratch.org
