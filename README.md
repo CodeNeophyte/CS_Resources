@@ -11,7 +11,6 @@ The purpose of this repository is to capture good articles, resources, and links
 * CS from the Bottom Up: https://www.bottomupcs.com
 * Harvard's CS50: https://cs50.harvard.edu
 
-
 ### Projects
 * Build your own 8 bit machine: https://eater.net
 
@@ -30,6 +29,9 @@ The purpose of this repository is to capture good articles, resources, and links
 * Association for Computing Machinery (ACM): http://www.acm.org
 * IEEE: https://www.ieee.org/about/index.html
 * IEEE computing society: https://www.computer.org
+
+### Mini Computers (Arduino, Raspberry Pi), Hardware
+* Platform io (IDE for IoTs, Arduino): http://platformio.org
 
 ## Programming Languages
 ### C
