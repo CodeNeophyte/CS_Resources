@@ -24,6 +24,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * SANS Cyber Aces: https://tutorials.cyberaces.org/tutorials
 * Introduction to Practical Hacking and Penetration Testing: https://www.youtube.com/watch?v=4DC3BgB1vNc&t=2s
 * 415 Hack Yourself Building A Pentesting Lab David Boyd: https://www.youtube.com/watch?v=b8_sOoQtALs&t=6s
+* Great Security Engineering Blog: https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html
 
 ### Associations
 * Association for Computing Machinery (ACM): http://www.acm.org
