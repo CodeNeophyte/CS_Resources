@@ -40,12 +40,18 @@ The purpose of this repository is to capture good articles, resources, and links
 * Stanford CS Essential C: http://cslibrary.stanford.edu/101/
 * Object Oriented Programming in C: https://www.cs.rit.edu/~ats/books/ooc.pdf
 * Toptal C resources: https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus
+* Beej's Guide to C Programming: http://beej.us/guide/bgc/
+* Build your own Lisp: http://www.buildyourownlisp.com
+* Crafting Interpreters (A handbook for making programming languages): http://www.craftinginterpreters.com
 
 ### C++
 * Toptal C++ resources: https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus
 * Ultimate C++ cheat sheet: https://www.techworm.net/2017/07/ultimate-c-programming-language-cheat-sheet.html
 
 ### Python
+
+### Java
+* Crafting Interpreters (A handbook for making programming languages): http://www.craftinginterpreters.com
 
 ## Mathematics
 * A View of Mathematics: http://www.alainconnes.org/docs/maths.pdf
@@ -56,5 +62,9 @@ The purpose of this repository is to capture good articles, resources, and links
 * Linux from Scratch: http://www.linuxfromscratch.org
 * Build Your Own Linux: http://www.buildyourownlinux.com
 * The Art of Unix Programming: http://www.catb.org/esr/writings/taoup/html/
+* Ops School (Open Source SysAdmin curriculum): http://www.opsschool.org/en/latest/
+* Terminals are Sexy: https://github.com/k4m4/terminals-are-sexy
+* Awesome Sysadmin (curated list of sysadmin tools): https://github.com/kahun/awesome-sysadmin
+* The Art of the Command Line: https://github.com/jlevy/the-art-of-command-line
 
 
