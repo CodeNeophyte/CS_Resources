@@ -67,4 +67,6 @@ The purpose of this repository is to capture good articles, resources, and links
 * Awesome Sysadmin (curated list of sysadmin tools): https://github.com/kahun/awesome-sysadmin
 * The Art of the Command Line: https://github.com/jlevy/the-art-of-command-line
 
-
+## Text Editors & IDEs
+* Vim Galore (Vim tutorial): https://github.com/mhinz/vim-galore
+* SpaceVim: https://spacevim.org
