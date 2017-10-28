@@ -52,6 +52,7 @@ The purpose of this repository is to capture good articles, resources, and links
 
 ### Java
 * Crafting Interpreters (A handbook for making programming languages): http://www.craftinginterpreters.com
+* Intro to programming and CS in Java: https://introcs.cs.princeton.edu/java/home/
 
 ## Mathematics
 * A View of Mathematics: http://www.alainconnes.org/docs/maths.pdf
