@@ -16,6 +16,7 @@ The purpose of this repository is to capture good articles, resources, and links
 
 ### AI (Machine Learning, Deep Learning, Etc...)
 * Applied Machine Learning: The Less confusing Guide: https://udarajay.com/applied-machine-learning-the-less-confusing-guide/
+* Good breakdown of deeplearning.ai: https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 
 ### Data Science
 * Jupyter Notebook: http://jupyter.org
