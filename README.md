@@ -46,6 +46,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * Crafting Interpreters (A handbook for making programming languages): http://www.craftinginterpreters.com
 * Why learn C: http://radar.oreilly.com/2012/06/why-learn-c.html
 * C Programming BootCamp: http://www.gribblelab.org/CBootCamp/index.html
+* C programs examples: http://www.c4learn.com/c-programs/
 
 ### C++
 * Toptal C++ resources: https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus
