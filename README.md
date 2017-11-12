@@ -10,6 +10,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * Coding Interview University: https://github.com/jwasham/coding-interview-university
 * CS from the Bottom Up: https://www.bottomupcs.com
 * Harvard's CS50: https://cs50.harvard.edu
+* CS Unplugged: http://csunplugged.org
 
 ### Projects
 * Build your own 8 bit machine: https://eater.net
