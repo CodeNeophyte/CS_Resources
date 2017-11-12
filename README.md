@@ -12,8 +12,9 @@ The purpose of this repository is to capture good articles, resources, and links
 * Harvard's CS50: https://cs50.harvard.edu
 * CS Unplugged: http://csunplugged.org
 
-### Projects
+### Projects & Hardware
 * Build your own 8 bit machine: https://eater.net
+* The Amazing $1 Microcontrollers: https://jaycarlson.net/microcontrollers/
 
 ### AI (Machine Learning, Deep Learning, Etc...)
 * Applied Machine Learning: The Less confusing Guide: https://udarajay.com/applied-machine-learning-the-less-confusing-guide/
@@ -48,16 +49,27 @@ The purpose of this repository is to capture good articles, resources, and links
 * Why learn C: http://radar.oreilly.com/2012/06/why-learn-c.html
 * C Programming BootCamp: http://www.gribblelab.org/CBootCamp/index.html
 * C programs examples: http://www.c4learn.com/c-programs/
+* Low Level Programming University: https://github.com/gurugio/lowlevelprogramming-university
+* Virtual Memory Tricks: http://ourmachinery.com/post/virtual-memory-tricks/
+
+##### Audio and DSP in C
+* FxDSP: https://github.com/hamiltonkibbe/FxDSP
+* Sporth: https://github.com/PaulBatchelor/Sporth
+* SoundPipe: https://github.com/PaulBatchelor/Soundpipe
 
 ### C++
 * Toptal C++ resources: https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus
 * Ultimate C++ cheat sheet: https://www.techworm.net/2017/07/ultimate-c-programming-language-cheat-sheet.html
 
 ### Python
+* Interfacing Python and C: https://dbader.org/blog/python-ctypes-tutorial-part-2
 
 ### Java
 * Crafting Interpreters (A handbook for making programming languages): http://www.craftinginterpreters.com
 * Intro to programming and CS in Java: https://introcs.cs.princeton.edu/java/home/
+
+##### Audio and DSP in Java
+* JSyn (Synth library with unit generators): https://github.com/philburk/jsyn
 
 ## Mathematics
 * A View of Mathematics: http://www.alainconnes.org/docs/maths.pdf
