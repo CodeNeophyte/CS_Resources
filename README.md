@@ -51,6 +51,8 @@ The purpose of this repository is to capture good articles, resources, and links
 * C programs examples: http://www.c4learn.com/c-programs/
 * Low Level Programming University: https://github.com/gurugio/lowlevelprogramming-university
 * Virtual Memory Tricks: http://ourmachinery.com/post/virtual-memory-tricks/
+* Everything you need to know about pointers: http://boredzo.org/pointers/
+* Pointer Basics: http://cslibrary.stanford.edu/106/
 
 ##### Audio and DSP in C
 * FxDSP: https://github.com/hamiltonkibbe/FxDSP
