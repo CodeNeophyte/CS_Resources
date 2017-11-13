@@ -53,6 +53,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * Virtual Memory Tricks: http://ourmachinery.com/post/virtual-memory-tricks/
 * Everything you need to know about pointers: http://boredzo.org/pointers/
 * Pointer Basics: http://cslibrary.stanford.edu/106/
+* The C Preprocessor: https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents
 
 ##### Audio and DSP in C
 * FxDSP: https://github.com/hamiltonkibbe/FxDSP
