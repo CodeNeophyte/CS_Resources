@@ -28,6 +28,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * Introduction to Practical Hacking and Penetration Testing: https://www.youtube.com/watch?v=4DC3BgB1vNc&t=2s
 * 415 Hack Yourself Building A Pentesting Lab David Boyd: https://www.youtube.com/watch?v=b8_sOoQtALs&t=6s
 * Great Security Engineering Blog: https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html
+* Open Security Training: http://opensecuritytraining.info
 
 ### Associations
 * Association for Computing Machinery (ACM): http://www.acm.org
@@ -54,6 +55,8 @@ The purpose of this repository is to capture good articles, resources, and links
 * Everything you need to know about pointers: http://boredzo.org/pointers/
 * Pointer Basics: http://cslibrary.stanford.edu/106/
 * The C Preprocessor: https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents
+* Make tutorial: https://www.gnu.org/software/make/manual/make.html
+* Simple Make tutorial: http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
 
 ##### Audio and DSP in C
 * FxDSP: https://github.com/hamiltonkibbe/FxDSP
