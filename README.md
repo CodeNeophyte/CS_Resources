@@ -13,6 +13,8 @@ The purpose of this repository is to capture good articles, resources, and links
 * CS Unplugged: http://csunplugged.org
 * Defense against the Dark Arts: https://github.com/aaronbloomfield/dada
 * CS 2150: Program and Data Representation: https://aaronbloomfield.github.io/pdr/readme-old.html
+* Floating Point Arithmetic: https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+* Memory Layout and The Stack: http://www.dirac.org/linux/gdb/02a-Memory_Layout_And_The_Stack.php#wherearewegoingtogo
 
 ### Projects & Hardware
 * Build your own 8 bit machine: https://eater.net
