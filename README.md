@@ -11,6 +11,8 @@ The purpose of this repository is to capture good articles, resources, and links
 * CS from the Bottom Up: https://www.bottomupcs.com
 * Harvard's CS50: https://cs50.harvard.edu
 * CS Unplugged: http://csunplugged.org
+* Defense against the Dark Arts: https://github.com/aaronbloomfield/dada
+* CS 2150: Program and Data Representation: https://aaronbloomfield.github.io/pdr/readme-old.html
 
 ### Projects & Hardware
 * Build your own 8 bit machine: https://eater.net
