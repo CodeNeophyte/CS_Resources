@@ -93,6 +93,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * Terminals are Sexy: https://github.com/k4m4/terminals-are-sexy
 * Awesome Sysadmin (curated list of sysadmin tools): https://github.com/kahun/awesome-sysadmin
 * The Art of the Command Line: https://github.com/jlevy/the-art-of-command-line
+* Unix Programming Tools: https://www.csee.umbc.edu/courses/undergraduate/313/spring12/Resources/UnixProgrammingTools.pdf
 
 ## Text Editors & IDEs
 * Vim Galore (Vim tutorial): https://github.com/mhinz/vim-galore
