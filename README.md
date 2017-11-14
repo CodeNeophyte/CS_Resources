@@ -97,3 +97,6 @@ The purpose of this repository is to capture good articles, resources, and links
 ## Text Editors & IDEs
 * Vim Galore (Vim tutorial): https://github.com/mhinz/vim-galore
 * SpaceVim: https://spacevim.org
+
+## LLVM, Clang, LLDB
+* LLDB commands: https://aaronbloomfield.github.io/pdr/docs/lldb_summary.html
