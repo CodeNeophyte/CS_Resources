@@ -62,6 +62,7 @@ The purpose of this repository is to capture good articles, resources, and links
 * Make tutorial: https://www.gnu.org/software/make/manual/make.html
 * Simple Make tutorial: http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
 * Make for Beginners: http://opensourceforu.com/2012/06/gnu-make-in-detail-for-beginners/
+* Undefined Behavior: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 
 ##### Audio and DSP in C
 * FxDSP: https://github.com/hamiltonkibbe/FxDSP
