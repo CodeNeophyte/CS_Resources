@@ -105,3 +105,6 @@ The purpose of this repository is to capture good articles, resources, and links
 
 ## LLVM, Clang, LLDB
 * LLDB commands: https://aaronbloomfield.github.io/pdr/docs/lldb_summary.html
+
+## Miscellaneous Resources
+* Rosetta Code (Code repository): http://rosettacode.org/wiki/Rosetta_Code
