@@ -42,6 +42,19 @@ The purpose of this repository is to capture good articles, resources, and links
 ### Mini Computers (Arduino, Raspberry Pi), Hardware
 * Platform io (IDE for IoTs, Arduino): http://platformio.org
 
+### Online Computer Science Programs (Degrees and Formal Education)
+* UMUC: http://www.umuc.edu/academic-programs/bachelors-degrees/computer-science-major.cfm
+* Oregon State (Postbaccalaureate): http://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science/
+* Arizona State University (ABET accredited): https://asuonline.asu.edu/online-degree-programs/undergraduate/bachelor-science-software-engineering
+* University of West Florida: http://uwf.edu/cse/departments/computer-science/graduate-programs/software-engineering-ms/
+* Regis University: http://www.regis.edu/CCIS/Academics/Degrees-Programs/Undergraduate-Programs/BS-Computer-Science.aspx
+* University of Florida: https://ufonline.ufl.edu/degrees/undergraduate/computer-science/
+* Florida State University: https://distance.fsu.edu/students/computer-science-bs
+* Northeastern University: https://www.northeastern.edu/align/academic_program/master-of-science-in-computer-science/
+* Auburn: https://onlinedegrees.auburn.edu/computer-science/home
+* Stanford: https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861
+* Stanford (certificate): https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1226709
+
 ## Programming Languages
 ### C
 * Database in C: https://cstack.github.io/db_tutorial/
