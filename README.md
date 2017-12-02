@@ -121,3 +121,4 @@ The purpose of this repository is to capture good articles, resources, and links
 
 ## Miscellaneous Resources
 * Rosetta Code (Code repository): http://rosettacode.org/wiki/Rosetta_Code
+* Public APIs: https://github.com/toddmotto/public-apis
